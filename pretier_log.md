@@ -19,6 +19,6 @@ Sure, let's format the logs in a cleaner way with proper sections and a table fo
 |--------------------------|----------------|------------|-----------------------------------------------------------------------------|
 | 4, 4                     | 4              | OOM        | Occurs on 2 T4 Kaggle TPUs with rope scaling set to 4 (1024 to 8k).          |
 | 1, 1                     | 4              | OOM        | Out of memory even with the smallest batch size.                            |
-| -                        | 2              | Doesn't OOM| Works fine with scaling factor set to 2.                                     |
+| 1,1                        | 2              | Doesn't OOM| Works fine with scaling factor set to 2.                                     |
 
 ---
