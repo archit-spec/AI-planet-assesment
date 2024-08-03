@@ -16,7 +16,7 @@ The key points are:
 - Mistral-7B and GPT-3.5-Turbo have context lengths of 32K and 16K tokens respectively
 - Generating a chain-of-thought dataset can leverage the high context window capabilities of these models
 
-Huge inspiration comes from this blog [kaiokendev rope impl][https://kaiokendev.github.io/til] 
+Huge inspiration comes from this blog [kaiokendev rope impl](https://kaiokendev.github.io/til) 
 Now coming increasing ctx len im gonna be using this application of 
 
 
