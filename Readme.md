@@ -2,7 +2,7 @@
 ---
 
 ### Extending GPT-2 Context Length via RoPE Scaling
-  note: ive chose gpt2 as its the only small model i could find that i could finetune easiy without ooming which was old enough to not have rope preimplemented (qlora was making it harder and giving too many errors so dint wanna go into that)
+  note: ive chose gpt2 as its the only small model i could find that i could finetune easiy without ooming which was old enough to not have rope preimplemented (qlora was making it harder and giving too many errors so dint wanna go into that as time constrians)
 
 #### Training Runs
 - [Training Run 1 on WandB](https://wandb.ai/dumbal/huggingface/runs/omafkp4r?nw=nwuserdumbal)
