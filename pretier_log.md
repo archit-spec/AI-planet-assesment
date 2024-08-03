@@ -1,4 +1,3 @@
-Sure, let's format the logs in a cleaner way with proper sections and a table for easy readability.
 
 ---
 

@@ -1,4 +1,3 @@
-Here's a more organized and visually appealing version of your logs:
 
 ---
 
