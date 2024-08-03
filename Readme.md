@@ -22,5 +22,7 @@
 - change the model to use rope pos embeddings 
 - save and upload to huggingface (to not oom)
 - load and train seperately on [long-alpaca12k](https://huggingface.co/datasets/Yukang/LongAlpaca-12k) 
+- these steps can be seen in [notebook](./final.ipynb) and [notebook](./gpt2long-train.ipynb) 
+- for logs and other findings or docs check [logs](./pretier_log.md) and [this](./pretier_documentation.md)
 ---
 
