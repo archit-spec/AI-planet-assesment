@@ -10,7 +10,7 @@
 
 #### Demo
 - Try the model here: [GPT-2 Long Demo](https://huggingface.co/spaces/archit11/gpt2long)
-
+- Try giving an input of >1k or 2k tokens
 ![Demo](./image.png)
 
 #### Evaluation
