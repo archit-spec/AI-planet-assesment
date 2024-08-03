@@ -21,7 +21,7 @@ Now coming increasing ctx len im gonna be using this application of
 
 
 
-Actually scrap those top models off, they alr have rotatry pos encoding enabled by default we will do it for gpt-2
+# Actually scrap those top models off, they alr have rotatry pos encoding enabled by default we will do it for gpt-2
 
 
 
