@@ -5,3 +5,6 @@ training run2 -> [https://wandb.ai/dumbal/huggingface/runs/pivwo4nb?nw=nwuserdum
 
 # ok so it kind of works try here [https://huggingface.co/spaces/archit11/gpt2long](demo)
 
+ [./image.png](demo)
+not as good this [https://github.com/kaiokendev/cutoff-len-is-context-len/blob/main/rope_test.ipynb](eval) 
+
