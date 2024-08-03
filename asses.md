@@ -40,8 +40,9 @@ RN using LIMA to train
 https://github.com/kaiokendev/cutoff-len-is-context-len/blob/main/util/dope_llama_monkey_patch.py
 
 https://github.com/kaiokendev/cutoff-len-is-context-len
-
-
+extending gpt2 ctx len via rope scaling
+training run -> https://wandb.ai/dumbal/huggingface/runs/omafkp4r?nw=nwuserdumbal
+this supposedly failed for obvious reasons probably
 ok wow i should try this with the 8b param https://x.com/_xjdr/status/1819401339568640257
 
 
