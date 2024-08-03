@@ -14,6 +14,7 @@
 
 #### Evaluation
 - Not as good as expected: [RoPE Test Evaluation](https://github.com/kaiokendev/cutoff-len-is-context-len/blob/main/rope_test.ipynb)
+ but...good enough! given the compute constrians! :D
 
 ---
 
