@@ -25,5 +25,8 @@
 - load and train seperately on [long-alpaca12k](https://huggingface.co/datasets/Yukang/LongAlpaca-12k) 
 - these steps can be seen in [notebook](./final.ipynb) and [notebook](./gpt2long-train.ipynb) 
 - for logs and other findings or docs check [logs](./pretier_log.md) and [this](./pretier_documentation.md)
+
+# Note:
+ - i kind of get that the ideal way to apply pathces to models would be something like this [kaiokendev impl](https://github.com/kaiokendev/cutoff-len-is-context-len/blob/main/util/xpos_rope_llama_monkey_patch.py) though this was my frist time doing this and time constrains so i just used whatever i could
 ---
 
