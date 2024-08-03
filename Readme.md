@@ -14,7 +14,13 @@
 
 #### Evaluation
 - Not as good as expected: [RoPE Test Evaluation](https://github.com/kaiokendev/cutoff-len-is-context-len/blob/main/rope_test.ipynb)
- but...good enough! given the compute constrians! :D
+ but...good enough! given the compute constrians! :D  
 
+
+### Approach
+- Use the rotatory pos implementation by lucid rains [here](https://github.com/lucidrains/rotary-embedding-torch)
+- change the model to use rope pos embeddings 
+- save and upload to huggingface (to not oom)
+- load and train seperately on [long-alpaca12k](https://huggingface.co/datasets/Yukang/LongAlpaca-12k) 
 ---
 
